@@ -1,15 +1,24 @@
-<h1 align="center">Hi there 👋, I'm Sheraz</h1>
-<h3 align="center">A passionate developer who loves building things for the Web | IOS | Window | Mac | Android </h3>
+<h1>
+<a href="mailto:sherazsaqib.code@gmail.com"><img align="right" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/sheraz_coder"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/m-sheraz-saqib/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+Hi there 👋, I'm Sheraz
+</h1>
+<h3>A passionate developer who loves building things for the Web | IOS | Window | Mac | Android </h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheraz-saqib&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sheraz-saqib&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+### 🧑‍💻 About Me
+
+- 🔭 I'm currently working on **awesome projects**
+- 🌱 I'm currently learning **new technologies every day**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- ⚡ Fun fact: **I debug better after a cup of Tea ☕**
 
 ---
 ### 🛠️ Tech Stack
@@ -33,16 +42,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **awesome projects**
-- 🌱 I'm currently learning **new technologies every day**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- ⚡ Fun fact: **I debug better after a cup of Tea ☕**
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -56,16 +55,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sheraz-saqib&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-sheraz-saqib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/sheraz_coder"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:sherazsaqib.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
