@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sheraz</h1>
-<h3 align="center">A passionate developer who loves building things for the web</h3>
+<h3 align="center">A passionate developer who loves building things for the Web | IOS | Window | Mac | Android </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
