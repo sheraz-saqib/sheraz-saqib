@@ -47,16 +47,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheraz-saqib&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-saqib&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheraz-saqib&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheraz-saqib&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheraz-saqib&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sheraz-saqib&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheraz-saqib&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
