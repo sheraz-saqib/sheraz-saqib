@@ -12,17 +12,6 @@
 </p>
 
 ---
-
-### 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **awesome projects**
-- 🌱 I'm currently learning **new technologies every day**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- ⚡ Fun fact: **I debug better after a cup of chai ☕**
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -41,6 +30,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
 </p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I'm currently working on **awesome projects**
+- 🌱 I'm currently learning **new technologies every day**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- ⚡ Fun fact: **I debug better after a cup of Tea ☕**
 
 ---
 
